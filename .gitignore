@@ -1,0 +1,25 @@
+#Versionando core, tema, plugins e traduções
+*.log
+wp-config.php
+wp-content/advanced-cache.php
+wp-content/backup-db/
+wp-content/backups/
+wp-content/blogs.dir/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/uploads/
+wp-content/mu-plugins/
+wp-content/wp-cache-config.php
+wp-content/plugins/hello.php
+wp-content/themes/athena
+wp-content/themes/blossom-feminine
+wp-content/themes/ifeature
+wp-content/themes/thefour-lite
+
+/.htaccess
+/.htaccess_original
+/license.txt
+/readme.html
+/sitemap.xml
+/sitemap.xml.gz
+/.gitignore1

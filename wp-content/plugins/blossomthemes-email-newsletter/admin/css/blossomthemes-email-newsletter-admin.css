@@ -1,0 +1,129 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.newsletter-settings{
+	display: none;
+}
+
+.newsletter-settings.current{
+	display: inherit;
+}
+.blossomthemes-email-newsletter-note {
+    font-style: italic;
+    display: block;
+    opacity: 0.7;
+}
+/*.success-msg-option .blossomthemes-email-newsletter-note, .blossomthemes-email-newsletter-settings-wrap.page, .blossomthemes-email-newsletter-settings-wrap.message {
+	margin-left: 20px;
+}*/
+
+.blossomthemes-email-newsletter-container {
+
+	padding: 20px;
+}
+
+.btemn-settings-form {
+	background: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 78%;
+    float: left;
+}
+.btemn-settings-form label{
+	display: inline-block;
+    margin: 10px 0 15px 0;
+    vertical-align: top;
+    font-weight: bold;
+}
+/*.success-msg-option label:not(:first-child) {
+    margin-left: 20px;
+}*/
+.blossomthemes-email-newsletter-container .submit{
+	margin:0;
+}
+
+.blossomthemes-email-newsletter-container .newsletter-settings{
+
+}
+
+.blossomthemes-email-newsletter-container .newsletter-settings .blossomthemes-email-newsletter-wrap-field,
+.blossomthemes-email-newsletter-settings-platform{
+	margin: 0 0 10px;
+}
+
+.blossomthemes-email-newsletter-container .newsletter-settings .blossomthemes-email-newsletter-wrap-field label{
+	display: inline-block;
+	min-width: 54px;
+}
+
+.postbox .trip-info-meta .trip-info-meta-wrap{margin: 0 0 10px;}
+
+.postbox .trip-info-meta label,
+.postbox .trip-info-meta .label{
+    margin-right: 20px;
+    vertical-align: top;
+    width: 150px;
+    display: inline-block;
+}
+
+.postbox .trip-info-meta .bg-color-option{
+    display: inline-block;
+}
+
+.postbox .trip-info-meta .bg-image-uploader{
+    max-width: 450px;
+    position: relative;
+}
+
+.postbox .trip-info-meta .bg-image-uploader .bten_remove_image_button{
+    position: absolute;
+    top: -6px;
+    left: -6px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: #A71D01;
+    color: #fff;
+    font-size: 0;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+.postbox .trip-info-meta .bg-image-uploader .bten_remove_image_button:after{
+    content: '\f00d';
+    color: #fff;
+    font-family: 'FontAwesome';
+    font-size: 14px;
+    position: absolute;
+    top: 5px;
+    left: 9px;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+.postbox .trip-info-meta textarea{
+    width: 330px;
+}
+
+.btemn-settings-form label{
+    vertical-align: middle;
+    width: 120px;
+}
+
+.btemn-settings-form .blossomthemes-email-newsletter-settings-wrap.message label{
+    vertical-align: top;
+}
+
+.btemn-settings-form .blossomthemes-email-newsletter-settings-wrap.message textarea{
+    width: 350px;
+}
+
+.btemn-settings-form .success-msg-option{margin: 0 0 15px;}
+
+.btemn-settings-form .success-msg-option label{
+    width: auto;
+    text-align: left;
+}
+
+.btemn-settings-form .success-msg-option input[type="radio"]{
+    margin-left: 10px;
+}

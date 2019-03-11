@@ -1,0 +1,189 @@
+# <!=Copyright (C) 2019 Blossom Themes
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Blossom Beauty 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/blossom-beauty\n"
+"POT-Creation-Date: 2019-01-18 11:58:54+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: functions.php:80
+msgid "Demo & Documentation"
+msgstr ""
+
+#: functions.php:93
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr ""
+
+#: functions.php:95
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr ""
+
+#: functions.php:113
+msgid "Appearance Settings"
+msgstr ""
+
+#: functions.php:114
+msgid "Customize Typography, Header Image & Background Image"
+msgstr ""
+
+#: functions.php:122
+msgid "Typography"
+msgstr ""
+
+#: functions.php:142
+msgid "Primary Font"
+msgstr ""
+
+#: functions.php:143
+msgid "Primary font of the site."
+msgstr ""
+
+#: functions.php:164
+msgid "Secondary Font"
+msgstr ""
+
+#: functions.php:165
+msgid "Secondary font of the site."
+msgstr ""
+
+#: functions.php:187
+msgid "Font Size"
+msgstr ""
+
+#: functions.php:188
+msgid "Change the font size of your site."
+msgstr ""
+
+#: functions.php:220
+msgid "Primary Color"
+msgstr ""
+
+#: functions.php:221
+msgid "Primary color of the theme."
+msgstr ""
+
+#: functions.php:232
+msgid "Layout Settings"
+msgstr ""
+
+#: functions.php:241 functions.php:262
+msgid "Header Layout"
+msgstr ""
+
+#: functions.php:263
+msgid "This is the layout for header."
+msgstr ""
+
+#: functions.php:276 functions.php:297
+msgid "Slider Layout"
+msgstr ""
+
+#: functions.php:298
+msgid "Choose the layout of the slider for your site."
+msgstr ""
+
+#: functions.php:311
+msgid "FOLLOW ALONG"
+msgstr ""
+
+#: functions.php:319
+msgid "Instagram Section Title"
+msgstr ""
+
+#: functions.php:332
+#. translators: used between list items, there is a space after the comma
+msgid " "
+msgstr ""
+
+#: functions.php:399
+msgid "Navigation"
+msgstr ""
+
+#: functions.php:522
+#. translators: %s: post title
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: functions.php:1001
+msgid " Blossom Beauty"
+msgstr ""
+
+#: functions.php:1001
+msgid " by Blossom Themes."
+msgstr ""
+
+#: functions.php:1003
+msgid " Powered by %s"
+msgstr ""
+
+#: functions.php:1003
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Blossom Beauty"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://blossomthemes.com/themes/blossom-beauty-free-wordpress-theme"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Blossom Beauty is a child theme of Blossom Feminine free WordPress theme. "
+"This theme helps you create a visually appealing, lively and attractive "
+"blog without writing a single line of code. This theme can be the best "
+"choice if you want to share your expert fashion tips, your favorite recipes "
+"or create travel, beauty, food, coaching, make-up, portfolio, wedding, "
+"personal, girly or cooking blog. This theme comes with advanced "
+"customization option and features a built-in customizer to help you "
+"customize your website with live preview as per your desire. Blossom Beauty "
+"is a mobile friendly and fully responsive theme that ensures your website "
+"displays properly on any screen sizes. This theme also helps you increase "
+"your Instagram followers with the beautifully placed Instagram section. "
+"Also, the strategically placed newsletter section helps you grow your email "
+"list and communicate with your visitors. The advertisement widget of the "
+"theme helps you monetize your blog and earn revenue from it. Blossom Beauty "
+"is speed optimized and SEO friendly theme which helps your website rank "
+"higher in the search engine results. The theme is translation ready and "
+"supports RTL scripts. You can also create an online shop with this theme as "
+"it is fully compatible with the popular WooCommerce plugin. Blossom Beauty "
+"is backed by world-class, one-on-one support, and a super active team of "
+"developers and designers.Check demo: "
+"https://demo.blossomthemes.com/blossom-beauty, read documentation: "
+"https://blossomthemes.com/blossom-beauty-free-theme-documentation/, and get "
+"support: https://blossomthemes.com/support-ticket/."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Blossom Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://blossomthemes.com/"
+msgstr ""
+
+#: functions.php:612
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:613
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:614
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr ""
