@@ -1,0 +1,9 @@
+12/03/2019
+Customization of the title
+Customization of the Site Description style with CSS 
+(I guess that should be done using JS or PHP or other way)
+
+
+11/03/2019
+Removed the Primary Menu Nav. 
+Transfered search bottom to the social net bar

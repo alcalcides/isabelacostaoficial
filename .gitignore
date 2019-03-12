@@ -12,9 +12,9 @@ wp-content/mu-plugins/
 wp-content/wp-cache-config.php
 wp-content/plugins/hello.php
 wp-content/themes/athena
-wp-content/themes/blossom-feminine
 wp-content/themes/ifeature
 wp-content/themes/thefour-lite
+wp-content/plugins/ga-google-analytics/
 
 /.htaccess
 /.htaccess_original
@@ -23,3 +23,4 @@ wp-content/themes/thefour-lite
 /sitemap.xml
 /sitemap.xml.gz
 /.gitignore1
+/bkp?.zip

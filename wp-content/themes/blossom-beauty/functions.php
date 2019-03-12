@@ -435,7 +435,8 @@ function blossom_feminine_banner(){
                         <?php 
                         if( has_post_thumbnail() ){
                             the_post_thumbnail( 'blossom-feminine-slider' );    
-                        }else{ ?>
+                        }
+                        else{ ?>
                             <img src="<?php echo esc_url( get_template_directory_uri() . '/images/no-img_1920_649.png' ); ?>" alt="<?php the_title_attribute(); ?>" />
                             <?php 
                         }
