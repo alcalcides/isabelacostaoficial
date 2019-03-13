@@ -23,7 +23,7 @@ Tags: blog,one-column,two-columns,right-sidebar,left-sidebar,footer-widgets,cust
 	margin-top: 2rem;
 }
 .main-content {
-	margin-top: 80px;
+	margin-top: 40px;
 }
 
 #primary {
@@ -37,20 +37,19 @@ Tags: blog,one-column,two-columns,right-sidebar,left-sidebar,footer-widgets,cust
 .header-m {
 	padding: 2rem 0;
 }
-/** Added by Alcides 12/03/2019* 
-	Begin */
+
 .site-description{
 	font-size: 1.25em;
     line-height: 2em;
     color: #ad4a4a;
     margin: 0;
 }
-/** End */
+
 /*===============================================
  Banner layout two style
 ===============================================*/
-.banner-layout-two{
-	margin-top: 3px; 
+.banner-layout-two{ 
+    margin-top: 0;
 }
 	
 .banner-layout-two .owl-nav .owl-prev{
@@ -69,11 +68,16 @@ Tags: blog,one-column,two-columns,right-sidebar,left-sidebar,footer-widgets,cust
 }
 
 .slider-layout-two img{
-	opacity: 0.5;
+	opacity: 1; 
+	zoom: 50%; 
 }
 
 .slider-layout-two .active img{
 	opacity: 1;
+}
+
+.banner .owl-nav{ 
+	opacity: 0.5;
 }
 
 .banner .owl-nav .owl-prev:after,
@@ -315,9 +319,9 @@ Header Layout One style
 	margin-bottom: 0;
 }
 .banner.banner-layout-two .banner-text{
-	width: 50%;
+	width: 80%; 
 	max-width: unset;
-	padding: 0 100px;
+	padding: 0 50px; 
 	bottom: 0;
 	margin-bottom: 60px;
 }

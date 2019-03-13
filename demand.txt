@@ -1,0 +1,2 @@
+contact page: add social network icons as links instead of just text
+customize the title section of the site on home and others pages

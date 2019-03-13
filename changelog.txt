@@ -1,9 +1,12 @@
-12/03/2019
-Customization of the title
-Customization of the Site Description style with CSS 
-(I guess that should be done using JS or PHP or other way)
+12/03/2019 (Alcides)
+Main section is closer slider
+Title section is smaller
+Text inside slide occupy bigger width 
+Slide Images are smaller and brighter (without whitening)
+Site slogan "Infinitamente mulher" is red and bigger
+Slide controls buttons are clearer
 
 
-11/03/2019
+11/03/2019 (Alcides)
 Removed the Primary Menu Nav. 
 Transfered search bottom to the social net bar
