@@ -1,3 +1,7 @@
+14/03/2019 (Alcides)
+Social links inserted in the contact page. (I used WordPress editor to insert HTML customizations and, finally, edited style.css through IDE)
+The dots at left each social item were removed
+
 12/03/2019 (Alcides)
 Main section is closer slider
 Title section is smaller

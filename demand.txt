@@ -1,2 +1,4 @@
-contact page: add social network icons as links instead of just text
 customize the title section of the site on home and others pages
+prodution only: activate cache plugin like WP Super Cache
+prodution only: activate spam plugin like Askimet and CaptchaCode
+prodution only: activate seo plugin like WordPress SEO by Yoast

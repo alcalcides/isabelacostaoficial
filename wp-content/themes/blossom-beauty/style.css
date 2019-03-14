@@ -44,6 +44,17 @@ Tags: blog,one-column,two-columns,right-sidebar,left-sidebar,footer-widgets,cust
     color: #ad4a4a;
     margin: 0;
 }
+/*By Alcides 14/03/2019*/
+ul#contatos{
+	list-style: none;
+}
+
+/*By Alcides 14/03/2019*/
+img.iconesContato {
+	max-width: 1.5rem;
+	vertical-align: text-bottom;
+	margin-right: 1rem;
+}
 
 /*===============================================
  Banner layout two style

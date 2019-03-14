@@ -23,4 +23,4 @@ wp-content/plugins/ga-google-analytics/
 /sitemap.xml
 /sitemap.xml.gz
 /.gitignore1
-/bkp?.zip
+/bkp*.zip
